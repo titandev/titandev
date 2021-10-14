@@ -1,6 +1,8 @@
-# Hey There! I'm Titan
+<h1> Titan </h1>
+Hey! My name is Titan and I am a hobbyist developer...
 
-## My Skills
+### My Skills
+*I haven't been practising all the following but it's really easy for me to pick a skill back up*
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -41,7 +43,7 @@
   
 </p>
 
-## Where to find me
+## Information
 <p>
 	<a href="https://github.com/titandev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>  
   <a href="https://twitter.com/its_titan04" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Its_Titan04-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  
