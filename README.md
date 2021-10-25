@@ -43,6 +43,13 @@ Hey! My name is Titan and I am a hobbyist developer...
   
 </p>
 
+## Projects
+
+### Deprecated / Discontinued 
+[Edith Bot](https://top.gg/bot/594667108881661956)
+
+[Covid Statistics](https://top.gg/bot/691528986315980811)
+
 ## Information
 <p>
 	<a href="https://github.com/titandev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>  
