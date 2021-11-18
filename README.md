@@ -1,5 +1,4 @@
 <h1> Titan </h1>
-Hey! My name is Titan...
 
 ### My Skills
 *I haven't been practising all the following but it's really easy for me to pick a skill back up*
@@ -40,7 +39,6 @@ Hey! My name is Titan...
   <a href="https://www.adobe.com/nz/creativecloud.html" target="_blank">
      <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
   </a>
-  
 </p>
 
 ## Projects
