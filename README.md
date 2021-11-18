@@ -45,6 +45,9 @@ Hey! My name is Titan...
 
 ## Projects
 
+### Current Project(s)
+I am currently the Head Developer at [OG Networks - StarwarsRP Garry's Mod server](https://discord.gg/c3QfQ8pc3w)
+
 ### Deprecated / Discontinued 
 [Edith Bot](https://top.gg/bot/594667108881661956)
 
