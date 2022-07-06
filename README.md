@@ -1,7 +1,7 @@
 <h1> Titan </h1>
 
 ### My Skills
-*I haven't been practising all the following but it's really easy for me to pick a skill back up*
+*currently not practising*
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -44,7 +44,7 @@
 ## Projects
 
 ### Current Project(s)
-I am currently the Head Developer at [OG Networks - StarwarsRP Garry's Mod server](https://discord.gg/c3QfQ8pc3w)
+**NONE**
 
 ### Deprecated / Discontinued 
 [Edith Bot](https://top.gg/bot/594667108881661956)
